@@ -1,0 +1,25 @@
+(undo-tree-save-format-version . 1)
+"a5e636d1097ffc88e9ed41027511f1fbe3fe2efd"
+[nil nil nil nil (25624 53677 590182 413000) 0 nil]
+([nil nil ((15 . 16) (7 . 15) ("" . -7) (undo-tree-id0 . -1) (undo-tree-id1 . -1) 8 (t 25624 53414 977173 490000)) nil (25624 53677 590176 934000) 0 nil])
+([nil nil (("print (\"hello\")" . 1) (undo-tree-id10 . -14) (undo-tree-id11 . -14) (undo-tree-id12 . -14) (undo-tree-id13 . -14) (undo-tree-id14 . -14) (undo-tree-id15 . -14) (undo-tree-id16 . -14) (undo-tree-id17 . -14) (undo-tree-id18 . -14) (undo-tree-id19 . -14) (undo-tree-id20 . -15) 15 (t 25624 53677 590527 457000)) nil (25624 53718 359216 254000) 0 nil])
+([nil nil (("
+" . -17) (1 . 18)) nil (25624 53718 359097 487000) 0 nil])
+([nil nil (("
+print (\"hello\")" . 1) (undo-tree-id2 . -1) (undo-tree-id3 . -15) (undo-tree-id4 . -1) (undo-tree-id5 . -16) (undo-tree-id6 . -1) (undo-tree-id7 . -1) (undo-tree-id8 . -1) (undo-tree-id9 . -16) 2) nil (25624 53718 359089 543000) 0 nil])
+([nil nil ((1 . 281)) nil (25624 53718 359055 561000) 0 nil])
+([nil nil ((281 . 285)) nil (25624 53718 359048 516000) 0 nil])
+([nil nil (("-- This file can be loaded by calling `lua require('plugins')` from your init.vim
+
+" . 1) (undo-tree-id30 . -82) (undo-tree-id31 . -83) (t 25624 53718 359026 701000)) nil (25624 53837 894818 408000) 0 nil])
+([nil nil (("-- Only required if you have packer configured as `opt`
+vim.cmd [[packadd packer.nvim]]
+
+return require('packer').startup(function(use)
+  -- Packer can manage itself
+  use 'wbthomason/packer.nvim'
+end)" . 1) (undo-tree-id21 . -200) (undo-tree-id22 . -200) (undo-tree-id23 . -200) (undo-tree-id24 . -200) (undo-tree-id25 . -200) (undo-tree-id26 . -200) (undo-tree-id27 . -200) (undo-tree-id28 . -200) (undo-tree-id29 . -201)) nil (25624 53837 894809 109000) 0 nil])
+([nil nil ((9 . 10) (15 . 16) (6 . 16) ("	" . -6) (undo-tree-id32 . -1) (undo-tree-id33 . -1) 7 (6 . 7) (1 . 6) (t 25624 53837 901522 748000)) nil (25624 53977 510142 775000) 0 nil])
+([nil nil (("require(\"packer\")" . 1) (undo-tree-id34 . 8) (undo-tree-id35 . -16) (undo-tree-id36 . -8) (undo-tree-id37 . -8) (undo-tree-id38 . -8) (undo-tree-id39 . -8) (undo-tree-id40 . -8) (undo-tree-id41 . -8) (undo-tree-id42 . -8) (undo-tree-id43 . -8) (undo-tree-id44 . -8) (undo-tree-id45 . -17) 9 (t 25624 53977 512243 31000)) nil (25624 54080 118461 992000) 0 nil])
+([nil current ((1 . 15)) nil (25624 54080 118435 778000) 0 nil])
+nil

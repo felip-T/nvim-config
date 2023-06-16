@@ -1,0 +1,11 @@
+(undo-tree-save-format-version . 1)
+"a7fc924cb4452831284c14e8e0b5f7cb83d5fa2a"
+[nil nil nil nil (25624 53471 961163 468000) 0 nil]
+([nil nil ((1 . 10) (t 25624 52845 833925 948000)) nil (25624 53471 961160 659000) 0 nil])
+([nil nil ((9 . 17) ("f" . -9) (undo-tree-id0 . -1) (undo-tree-id1 . -1) ("e" . -10) (undo-tree-id2 . -1) (undo-tree-id3 . -1) ("l" . -11) (undo-tree-id4 . -1) (undo-tree-id5 . -1) 12 ("i" . -12) (undo-tree-id6 . -1) (undo-tree-id7 . -1) 13 (9 . 13)) nil (25624 53471 961153 924000) 0 nil])
+([nil nil (("require(\"felipe\")" . 1) (undo-tree-id18 . 1) (undo-tree-id19 . -15) (undo-tree-id20 . -15) (undo-tree-id21 . -16) (undo-tree-id22 . -15) (undo-tree-id23 . -15) (undo-tree-id24 . -15) (undo-tree-id25 . -15) (undo-tree-id26 . -15) (undo-tree-id27 . -17) 16 (t 25624 53471 963702 837000)) nil (25624 53629 3814 974000) 0 nil])
+([nil nil ((7 . 15) ("!" . -7) (undo-tree-id8 . -1) (undo-tree-id9 . -1) ("h" . -8) (undo-tree-id10 . -1) (undo-tree-id11 . -1) ("e" . -9) (undo-tree-id12 . -1) (undo-tree-id13 . -1) 10 (7 . 10) ("h" . -7) (undo-tree-id14 . -1) (undo-tree-id15 . -1) 8 (4 . 8) ("t" . -4) (undo-tree-id16 . -1) (undo-tree-id17 . -1) 5 (1 . 5)) nil (25624 53629 3797 60000) 0 nil])
+([nil nil (("print(\"hello\")" . 1) (undo-tree-id30 . -13) (undo-tree-id31 . -13) (undo-tree-id32 . -5) 6 (t 25624 53629 6041 519000)) nil (25624 53691 54312 270000) 0 nil])
+([nil nil ((12 . 13) ("i" . 12) ("l" . -12) (undo-tree-id28 . -1) (undo-tree-id29 . -1) 13 (1 . 19)) nil (25624 53691 54302 404000) 0 nil])
+([nil current ((41 . 43) (26 . 41) ("requi" . -19) (24 . 31) 24 (19 . 24) (18 . 19) (t 25624 53691 55528 695000) 13) nil (25624 54095 93531 543000) 0 nil])
+nil
