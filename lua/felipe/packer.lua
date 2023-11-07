@@ -53,6 +53,7 @@ return require('packer').startup(function(use)
 
 	use { 'savq/melange-nvim' }
 	use { 'ofirgall/ofirkai.nvim' }
+	use {'nyoom-engineering/oxocarbon.nvim'}
 
 	use({ "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
 	use 'nvim-treesitter/nvim-treesitter-context'
@@ -65,10 +66,7 @@ return require('packer').startup(function(use)
     run = function() vim.fn["mkdp#util#install"]() end,
 })
 
-use({
-    "iamcco/markdown-preview.nvim",
-    run = function() vim.fn["mkdp#util#install"]() end,
-})
+use{'nvim-tree/nvim-tree.lua'}
 
 use({ "iamcco/markdown-preview.nvim", run = "cd app && npm install", setup = function() vim.g.mkdp_filetypes = { "markdown" } end, ft = { "markdown" }, })
 
@@ -80,5 +78,4 @@ use {
 }
 
 use {'chentoast/marks.nvim'}
-use{'preservim/nerdtree'}
 end)
