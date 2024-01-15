@@ -1,6 +1,6 @@
 vim.g.mapleader = " "
 
-vim.keymap.set("n", "<leader>t", vim.cmd.NvimTreeToggle)
+-- vim.keymap.set("n", "<leader>t", vim.cmd.NvimTreeToggle)
 
 vim.keymap.set("n", "<leader>wv", vim.cmd.vsplit)
 vim.keymap.set("n", "<leader>wn", vim.cmd.split)
