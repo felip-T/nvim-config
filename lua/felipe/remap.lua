@@ -16,3 +16,5 @@ vim.keymap.set("n", "<leader>s", vim.cmd.w)
 
 vim.keymap.set("n", "<leader>bc", vim.cmd.ene)
 vim.keymap.set("n", "<leader>bn", vim.cmd.bNext)
+
+vim.opt.clipboard = "unnamedplus"

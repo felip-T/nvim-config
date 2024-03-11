@@ -9,8 +9,7 @@ return require('packer').startup(function(use)
 	use 'wbthomason/packer.nvim'
 
 	use {
-		'nvim-telescope/telescope.nvim', tag = '0.1.1',
-		-- or                            , branch = '0.1.x',
+		'nvim-telescope/telescope.nvim',
 		requires = { { 'nvim-lua/plenary.nvim' } }
 	}
 
@@ -61,6 +60,9 @@ return require('packer').startup(function(use)
 	use { 'tanvirtin/monokai.nvim' }
 	use { 'navarasu/onedark.nvim' }
 	use { 'catppuccin/nvim' }
+	use { 'https://github.com/Mofiqul/dracula.nvim'}
+	use {'https://github.com/bluz71/vim-moonfly-colors'}
+	use {'https://github.com/kepano/flexoki-neovim'}
 
 	use({ "nvim-treesitter/nvim-treesitter", run = ":TSUpdate" })
 	use 'nvim-treesitter/nvim-treesitter-context'
